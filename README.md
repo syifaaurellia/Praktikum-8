@@ -9,8 +9,8 @@ Kelas : TI.22.A1
 ## DAFTAR ISI <br>
 | No | Description | Link |
 |-----|------|-----|
-|1|Praktikum 8|[Click Here](#Praktikum8)|
-|2|Diagram Class Praktikum 8|[Click Here](#DiagramClassPraktikum8)|
+|1|Praktikum 8|[Click Here](#Praktikum-8)|
+|2|Diagram Class Praktikum 8|[Click Here](#Diagram-Class-Praktikum-8)|
 |3|Flowchart Praktikum 8|[Click Here](#flowchart-praktikum-8)|
 
 ## Praktikum 8
