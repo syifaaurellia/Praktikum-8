@@ -214,7 +214,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class un
 
 ## Diagram Class Praktikum 8
 
-![ss2](https://user-images.githubusercontent.com/115867244/207108605-1ff12848-fef7-422e-800f-c58a996206a0.png)
+![Gambar WhatsApp 2022-12-13 pukul 00 53 08](https://user-images.githubusercontent.com/115867244/207119045-38a1240b-afd7-40fb-b1cd-c75c8b23a98e.jpg)
 
 ## Flowchart Praktikum 8
 
