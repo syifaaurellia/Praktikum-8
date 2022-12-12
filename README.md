@@ -9,9 +9,20 @@ Kelas : TI.22.A1
 ## DAFTAR ISI <br>
 | No | Description | Link |
 |-----|------|-----|
-|1|Praktikum 8|[Click Here](#Praktikum-8)|
-|2|Diagram Class Praktikum 8|[Click Here](#Diagram-Class-Praktikum-8)|
-|3|Flowchart Praktikum 8|[Click Here](#flowchart-praktikum-8)|
+|1|Tugas Praktikum 8|[Click Here](#Tugas-Praktikum-8)|
+|2|Praktikum 8|[Click Here](#Praktikum-8)|
+|3|Diagram Class Praktikum 8|[Click Here](#Diagram-Class-Praktikum-8)|
+|4|Flowchart Praktikum 8|[Click Here](#flowchart-praktikum-8)|
+
+## Tugas Praktikum 8
+Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
+
+Method tambah() untuk menambah data
+Method tampilkan() untuk menampilkan data
+Method hapus(nama) untuk menghapus data berdasarkan nama
+Method ubah(nama) untuk mengubah data berdasarkan nama
+Buat diagram class, flowchart dan penjelasan programnya pada README.md.
+Commit dan push repository ke github.
 
 ## Praktikum 8
 
