@@ -17,12 +17,12 @@ Kelas : TI.22.A1
 ## Tugas Praktikum 8
 Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
-Method tambah() untuk menambah data
-Method tampilkan() untuk menampilkan data
-Method hapus(nama) untuk menghapus data berdasarkan nama
-Method ubah(nama) untuk mengubah data berdasarkan nama
-Buat diagram class, flowchart dan penjelasan programnya pada README.md.
-Commit dan push repository ke github.
+- Method tambah() untuk menambah data
+- Method tampilkan() untuk menampilkan data
+- Method hapus(nama) untuk menghapus data berdasarkan nama
+- Method ubah(nama) untuk mengubah data berdasarkan nama
+- Buat diagram class, flowchart dan penjelasan programnya pada README.md.
+- Commit dan push repository ke github.
 
 ## Praktikum 8
 
