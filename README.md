@@ -127,8 +127,9 @@ Kelas : TI.22.A1
 ![Screenshot (338)](https://user-images.githubusercontent.com/115867244/207099794-54699ffd-82a6-487a-9187-f0c58e736140.png)
 
 
+
 ## Hasil Run & Penjelasan Program :
-- Pertama kita mendeklarasikan sebuah class mahasiswa yang didalamnya terdapat atribut NIM, Nama, nilai tugas, nilai UTS dan nilai UAS. Jangan lupa, untuk mendeklarasikan sebuah class didalam OOP, kita harus menggunakan **def__init__ dan juga self.**
+- Pertama kita mendeklarasikan sebuah class mahasiswa yang didalamnya terdapat atribut NIM, Nama, nilai tugas, nilai UTS dan nilai UAS. Jangan lupa, untuk mendeklarasikan sebuah class didalam OOP kita harus menggunakan **def__init__ dan juga self.**
 
       class mahasiswa:
           def __init__(self, nim, nama, tugas, uts, uas):
